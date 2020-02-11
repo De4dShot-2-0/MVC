@@ -1,0 +1,24 @@
+﻿
+@{
+    ViewBag.Title = "Blank";
+}
+
+<h2>Blank</h2>
+<div>
+    @using (Html.BeginForm("Result", "Home", FormMethod.Post))
+    {
+        <h4>Question 1</h4>
+        @Html.CheckBox("Check1")<span>Choose this </span> <br />
+        @Html.CheckBox("Check2")<span>And this</span> <br />
+        @Html.CheckBox("Check3")<span>But no this</span> <br />
+        <h4>Question 2</h4>
+        @Html.RadioButton("Radio", "One")<span>Correctly</span> <br />
+        @Html.RadioButton("Radio", "Two") <span>Mistakenly</span> <br />
+        @Html.RadioButton("Radio", "Three") <span>Mistakenly</span> <br />
+        <h4>Question 3</h4>
+        @Html.TextBox("Text", null, null, new { placeholder = "Wrile 'ball' to get a point", style = "width:200px; margin-bottom: 12px" }) <br />
+        <input type="submit" value="Show Result" />
+    }
+</div>
+<p>@Model</p>
+

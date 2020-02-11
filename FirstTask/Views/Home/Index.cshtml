@@ -1,0 +1,13 @@
+﻿
+@{
+    ViewBag.Title = "Home Page";
+}
+
+@foreach (var elem in Model)
+{
+    <p>Name: @elem.Name </p>
+    <p>Published: @elem.Date </p>
+    <p>Text: @elem.Text </p>
+    <hr />
+}
+

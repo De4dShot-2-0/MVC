@@ -1,0 +1,165 @@
+D:\Study\Projects\FirstTask\FirstTask\bin\FirstTask.dll.config
+D:\Study\Projects\FirstTask\FirstTask\bin\FirstTask.dll
+D:\Study\Projects\FirstTask\FirstTask\bin\FirstTask.pdb
+D:\Study\Projects\FirstTask\FirstTask\bin\roslyn\csc.exe
+D:\Study\Projects\FirstTask\FirstTask\bin\roslyn\csc.exe.config
+D:\Study\Projects\FirstTask\FirstTask\bin\roslyn\csc.rsp
+D:\Study\Projects\FirstTask\FirstTask\bin\roslyn\csi.exe
+D:\Study\Projects\FirstTask\FirstTask\bin\roslyn\csi.exe.config
+D:\Study\Projects\FirstTask\FirstTask\bin\roslyn\csi.rsp
+D:\Study\Projects\FirstTask\FirstTask\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Study\Projects\FirstTask\FirstTask\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Study\Projects\FirstTask\FirstTask\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Study\Projects\FirstTask\FirstTask\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Study\Projects\FirstTask\FirstTask\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Study\Projects\FirstTask\FirstTask\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Study\Projects\FirstTask\FirstTask\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Study\Projects\FirstTask\FirstTask\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Study\Projects\FirstTask\FirstTask\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Study\Projects\FirstTask\FirstTask\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Study\Projects\FirstTask\FirstTask\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Study\Projects\FirstTask\FirstTask\bin\roslyn\System.AppContext.dll
+D:\Study\Projects\FirstTask\FirstTask\bin\roslyn\System.Collections.Immutable.dll
+D:\Study\Projects\FirstTask\FirstTask\bin\roslyn\System.Console.dll
+D:\Study\Projects\FirstTask\FirstTask\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Study\Projects\FirstTask\FirstTask\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Study\Projects\FirstTask\FirstTask\bin\roslyn\System.IO.Compression.dll
+D:\Study\Projects\FirstTask\FirstTask\bin\roslyn\System.IO.FileSystem.dll
+D:\Study\Projects\FirstTask\FirstTask\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Study\Projects\FirstTask\FirstTask\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Study\Projects\FirstTask\FirstTask\bin\roslyn\System.IO.Pipes.dll
+D:\Study\Projects\FirstTask\FirstTask\bin\roslyn\System.Reflection.Metadata.dll
+D:\Study\Projects\FirstTask\FirstTask\bin\roslyn\System.Security.AccessControl.dll
+D:\Study\Projects\FirstTask\FirstTask\bin\roslyn\System.Security.Claims.dll
+D:\Study\Projects\FirstTask\FirstTask\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Study\Projects\FirstTask\FirstTask\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Study\Projects\FirstTask\FirstTask\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Study\Projects\FirstTask\FirstTask\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Study\Projects\FirstTask\FirstTask\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Study\Projects\FirstTask\FirstTask\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Study\Projects\FirstTask\FirstTask\bin\roslyn\System.ValueTuple.dll
+D:\Study\Projects\FirstTask\FirstTask\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Study\Projects\FirstTask\FirstTask\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Study\Projects\FirstTask\FirstTask\bin\roslyn\System.Xml.XPath.dll
+D:\Study\Projects\FirstTask\FirstTask\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Study\Projects\FirstTask\FirstTask\bin\roslyn\vbc.exe
+D:\Study\Projects\FirstTask\FirstTask\bin\roslyn\vbc.exe.config
+D:\Study\Projects\FirstTask\FirstTask\bin\roslyn\vbc.rsp
+D:\Study\Projects\FirstTask\FirstTask\bin\roslyn\VBCSCompiler.exe
+D:\Study\Projects\FirstTask\FirstTask\bin\roslyn\VBCSCompiler.exe.config
+D:\Study\Projects\FirstTask\FirstTask\bin\Antlr3.Runtime.dll
+D:\Study\Projects\FirstTask\FirstTask\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Study\Projects\FirstTask\FirstTask\bin\Microsoft.Web.Infrastructure.dll
+D:\Study\Projects\FirstTask\FirstTask\bin\Newtonsoft.Json.dll
+D:\Study\Projects\FirstTask\FirstTask\bin\System.Web.Helpers.dll
+D:\Study\Projects\FirstTask\FirstTask\bin\System.Web.Mvc.dll
+D:\Study\Projects\FirstTask\FirstTask\bin\System.Web.Optimization.dll
+D:\Study\Projects\FirstTask\FirstTask\bin\System.Web.Razor.dll
+D:\Study\Projects\FirstTask\FirstTask\bin\System.Web.WebPages.Deployment.dll
+D:\Study\Projects\FirstTask\FirstTask\bin\System.Web.WebPages.dll
+D:\Study\Projects\FirstTask\FirstTask\bin\System.Web.WebPages.Razor.dll
+D:\Study\Projects\FirstTask\FirstTask\bin\WebGrease.dll
+D:\Study\Projects\FirstTask\FirstTask\bin\System.Web.Helpers.xml
+D:\Study\Projects\FirstTask\FirstTask\bin\System.Web.Mvc.xml
+D:\Study\Projects\FirstTask\FirstTask\bin\System.Web.Optimization.xml
+D:\Study\Projects\FirstTask\FirstTask\bin\System.Web.Razor.xml
+D:\Study\Projects\FirstTask\FirstTask\bin\System.Web.WebPages.xml
+D:\Study\Projects\FirstTask\FirstTask\bin\System.Web.WebPages.Deployment.xml
+D:\Study\Projects\FirstTask\FirstTask\bin\System.Web.WebPages.Razor.xml
+D:\Study\Projects\FirstTask\FirstTask\bin\Newtonsoft.Json.xml
+D:\Study\Projects\FirstTask\FirstTask\bin\Antlr3.Runtime.pdb
+D:\Study\Projects\FirstTask\FirstTask\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Study\Projects\FirstTask\FirstTask\bin\ru\System.Web.Helpers.resources.dll
+D:\Study\Projects\FirstTask\FirstTask\bin\ru\System.Web.Mvc.resources.dll
+D:\Study\Projects\FirstTask\FirstTask\bin\ru\System.Web.Optimization.resources.dll
+D:\Study\Projects\FirstTask\FirstTask\bin\ru\System.Web.Razor.resources.dll
+D:\Study\Projects\FirstTask\FirstTask\bin\ru\System.Web.WebPages.resources.dll
+D:\Study\Projects\FirstTask\FirstTask\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Study\Projects\FirstTask\FirstTask\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\Study\Projects\FirstTask\FirstTask\obj\Debug\FirstTask.csprojAssemblyReference.cache
+D:\Study\Projects\FirstTask\FirstTask\obj\Debug\FirstTask.csproj.CoreCompileInputs.cache
+D:\Study\Projects\FirstTask\FirstTask\obj\Debug\FirstTask.csproj.CopyComplete
+D:\Study\Projects\FirstTask\FirstTask\obj\Debug\FirstTask.dll
+D:\Study\Projects\FirstTask\FirstTask\obj\Debug\FirstTask.pdb
+D:\Study\Изучение C#\Epam\MVC\FirstTask\FirstTask\bin\FirstTask.dll.config
+D:\Study\Изучение C#\Epam\MVC\FirstTask\FirstTask\bin\FirstTask.dll
+D:\Study\Изучение C#\Epam\MVC\FirstTask\FirstTask\bin\FirstTask.pdb
+D:\Study\Изучение C#\Epam\MVC\FirstTask\FirstTask\bin\roslyn\csc.exe
+D:\Study\Изучение C#\Epam\MVC\FirstTask\FirstTask\bin\roslyn\csc.exe.config
+D:\Study\Изучение C#\Epam\MVC\FirstTask\FirstTask\bin\roslyn\csc.rsp
+D:\Study\Изучение C#\Epam\MVC\FirstTask\FirstTask\bin\roslyn\csi.exe
+D:\Study\Изучение C#\Epam\MVC\FirstTask\FirstTask\bin\roslyn\csi.exe.config
+D:\Study\Изучение C#\Epam\MVC\FirstTask\FirstTask\bin\roslyn\csi.rsp
+D:\Study\Изучение C#\Epam\MVC\FirstTask\FirstTask\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Study\Изучение C#\Epam\MVC\FirstTask\FirstTask\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Study\Изучение C#\Epam\MVC\FirstTask\FirstTask\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Study\Изучение C#\Epam\MVC\FirstTask\FirstTask\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Study\Изучение C#\Epam\MVC\FirstTask\FirstTask\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Study\Изучение C#\Epam\MVC\FirstTask\FirstTask\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Study\Изучение C#\Epam\MVC\FirstTask\FirstTask\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Study\Изучение C#\Epam\MVC\FirstTask\FirstTask\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Study\Изучение C#\Epam\MVC\FirstTask\FirstTask\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Study\Изучение C#\Epam\MVC\FirstTask\FirstTask\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Study\Изучение C#\Epam\MVC\FirstTask\FirstTask\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Study\Изучение C#\Epam\MVC\FirstTask\FirstTask\bin\roslyn\System.AppContext.dll
+D:\Study\Изучение C#\Epam\MVC\FirstTask\FirstTask\bin\roslyn\System.Collections.Immutable.dll
+D:\Study\Изучение C#\Epam\MVC\FirstTask\FirstTask\bin\roslyn\System.Console.dll
+D:\Study\Изучение C#\Epam\MVC\FirstTask\FirstTask\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Study\Изучение C#\Epam\MVC\FirstTask\FirstTask\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Study\Изучение C#\Epam\MVC\FirstTask\FirstTask\bin\roslyn\System.IO.Compression.dll
+D:\Study\Изучение C#\Epam\MVC\FirstTask\FirstTask\bin\roslyn\System.IO.FileSystem.dll
+D:\Study\Изучение C#\Epam\MVC\FirstTask\FirstTask\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Study\Изучение C#\Epam\MVC\FirstTask\FirstTask\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Study\Изучение C#\Epam\MVC\FirstTask\FirstTask\bin\roslyn\System.IO.Pipes.dll
+D:\Study\Изучение C#\Epam\MVC\FirstTask\FirstTask\bin\roslyn\System.Reflection.Metadata.dll
+D:\Study\Изучение C#\Epam\MVC\FirstTask\FirstTask\bin\roslyn\System.Security.AccessControl.dll
+D:\Study\Изучение C#\Epam\MVC\FirstTask\FirstTask\bin\roslyn\System.Security.Claims.dll
+D:\Study\Изучение C#\Epam\MVC\FirstTask\FirstTask\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Study\Изучение C#\Epam\MVC\FirstTask\FirstTask\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Study\Изучение C#\Epam\MVC\FirstTask\FirstTask\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Study\Изучение C#\Epam\MVC\FirstTask\FirstTask\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Study\Изучение C#\Epam\MVC\FirstTask\FirstTask\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Study\Изучение C#\Epam\MVC\FirstTask\FirstTask\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Study\Изучение C#\Epam\MVC\FirstTask\FirstTask\bin\roslyn\System.ValueTuple.dll
+D:\Study\Изучение C#\Epam\MVC\FirstTask\FirstTask\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Study\Изучение C#\Epam\MVC\FirstTask\FirstTask\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Study\Изучение C#\Epam\MVC\FirstTask\FirstTask\bin\roslyn\System.Xml.XPath.dll
+D:\Study\Изучение C#\Epam\MVC\FirstTask\FirstTask\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Study\Изучение C#\Epam\MVC\FirstTask\FirstTask\bin\roslyn\vbc.exe
+D:\Study\Изучение C#\Epam\MVC\FirstTask\FirstTask\bin\roslyn\vbc.exe.config
+D:\Study\Изучение C#\Epam\MVC\FirstTask\FirstTask\bin\roslyn\vbc.rsp
+D:\Study\Изучение C#\Epam\MVC\FirstTask\FirstTask\bin\roslyn\VBCSCompiler.exe
+D:\Study\Изучение C#\Epam\MVC\FirstTask\FirstTask\bin\roslyn\VBCSCompiler.exe.config
+D:\Study\Изучение C#\Epam\MVC\FirstTask\FirstTask\bin\Antlr3.Runtime.dll
+D:\Study\Изучение C#\Epam\MVC\FirstTask\FirstTask\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Study\Изучение C#\Epam\MVC\FirstTask\FirstTask\bin\Microsoft.Web.Infrastructure.dll
+D:\Study\Изучение C#\Epam\MVC\FirstTask\FirstTask\bin\Newtonsoft.Json.dll
+D:\Study\Изучение C#\Epam\MVC\FirstTask\FirstTask\bin\System.Web.Helpers.dll
+D:\Study\Изучение C#\Epam\MVC\FirstTask\FirstTask\bin\System.Web.Mvc.dll
+D:\Study\Изучение C#\Epam\MVC\FirstTask\FirstTask\bin\System.Web.Optimization.dll
+D:\Study\Изучение C#\Epam\MVC\FirstTask\FirstTask\bin\System.Web.Razor.dll
+D:\Study\Изучение C#\Epam\MVC\FirstTask\FirstTask\bin\System.Web.WebPages.Deployment.dll
+D:\Study\Изучение C#\Epam\MVC\FirstTask\FirstTask\bin\System.Web.WebPages.dll
+D:\Study\Изучение C#\Epam\MVC\FirstTask\FirstTask\bin\System.Web.WebPages.Razor.dll
+D:\Study\Изучение C#\Epam\MVC\FirstTask\FirstTask\bin\WebGrease.dll
+D:\Study\Изучение C#\Epam\MVC\FirstTask\FirstTask\bin\System.Web.Helpers.xml
+D:\Study\Изучение C#\Epam\MVC\FirstTask\FirstTask\bin\System.Web.Mvc.xml
+D:\Study\Изучение C#\Epam\MVC\FirstTask\FirstTask\bin\System.Web.Optimization.xml
+D:\Study\Изучение C#\Epam\MVC\FirstTask\FirstTask\bin\System.Web.Razor.xml
+D:\Study\Изучение C#\Epam\MVC\FirstTask\FirstTask\bin\System.Web.WebPages.xml
+D:\Study\Изучение C#\Epam\MVC\FirstTask\FirstTask\bin\System.Web.WebPages.Deployment.xml
+D:\Study\Изучение C#\Epam\MVC\FirstTask\FirstTask\bin\System.Web.WebPages.Razor.xml
+D:\Study\Изучение C#\Epam\MVC\FirstTask\FirstTask\bin\Newtonsoft.Json.xml
+D:\Study\Изучение C#\Epam\MVC\FirstTask\FirstTask\bin\Antlr3.Runtime.pdb
+D:\Study\Изучение C#\Epam\MVC\FirstTask\FirstTask\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Study\Изучение C#\Epam\MVC\FirstTask\FirstTask\bin\ru\System.Web.Helpers.resources.dll
+D:\Study\Изучение C#\Epam\MVC\FirstTask\FirstTask\bin\ru\System.Web.Mvc.resources.dll
+D:\Study\Изучение C#\Epam\MVC\FirstTask\FirstTask\bin\ru\System.Web.Optimization.resources.dll
+D:\Study\Изучение C#\Epam\MVC\FirstTask\FirstTask\bin\ru\System.Web.Razor.resources.dll
+D:\Study\Изучение C#\Epam\MVC\FirstTask\FirstTask\bin\ru\System.Web.WebPages.resources.dll
+D:\Study\Изучение C#\Epam\MVC\FirstTask\FirstTask\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Study\Изучение C#\Epam\MVC\FirstTask\FirstTask\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\Study\Изучение C#\Epam\MVC\FirstTask\FirstTask\obj\Debug\FirstTask.csprojAssemblyReference.cache
+D:\Study\Изучение C#\Epam\MVC\FirstTask\FirstTask\obj\Debug\FirstTask.csproj.CopyComplete
+D:\Study\Изучение C#\Epam\MVC\FirstTask\FirstTask\obj\Debug\FirstTask.dll
+D:\Study\Изучение C#\Epam\MVC\FirstTask\FirstTask\obj\Debug\FirstTask.pdb

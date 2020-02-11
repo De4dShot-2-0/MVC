@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+<div>
+    <header name="top">
+        <div><img src="~/Images/icon.jpg" alt="blog icon" height="40px" width="40px" /></div>
+        <h2>MyBlog</h2>
+    </header>
+    <div class="content">
+        <div class="Main-body">
+            @RenderBody()
+        </div>
+        <div class="Right-sidebar">
+            <ul>
+                <li>@Html.ActionLink("Home Page", "Index", "Home")</li>
+                <li>@Html.ActionLink("Comment", "Guest", "Home")</li>
+                <li>@Html.ActionLink("Blank", "Blank", "Home")</li>
+            </ul>
+            
+        </div>
+    </div>
+    <hr />
+    <footer>
+        <p>&copy;Vlad Feitser</p>
+        <a href="#top">Go top</a>
+    </footer>
+</div>
+
+@Scripts.Render("~/bundles/jquery")
+@RenderSection("scripts", required: false)
+</body>
+</html>

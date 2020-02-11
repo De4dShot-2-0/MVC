@@ -1,0 +1,32 @@
+﻿
+@{
+    ViewBag.Title = "Guest";
+}
+
+@using FirstTask.Models
+
+@helper ShowList(List<Article> list)
+{
+    foreach (var elem in list)
+    {
+        <p>Name: @elem.Name </p>
+        <p>Published: @elem.Date </p>
+        <p>Text: @elem.Text </p>
+        <hr />
+    }
+}
+
+<h2>Comments</h2>
+
+@ShowList(Model)
+
+@using (Html.BeginForm("Guest", "Home", FormMethod.Post))
+{
+    <p>Name</p>
+    @Html.TextBox("Name", null, new { placeholder = "Write your name"})
+    <br />
+    <p>Comment</p>
+    @Html.TextArea("Text", new { rows = "6", cols = "60", placeholder = "Write your comment", style = "resize: none;" });
+    <br />
+    <input type="submit" value="Add comment" />
+}
