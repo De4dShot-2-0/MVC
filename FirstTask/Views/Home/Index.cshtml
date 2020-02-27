@@ -5,9 +5,26 @@
 
 @foreach (var elem in Model)
 {
+    
     <p>Name: @elem.Name </p>
     <p>Published: @elem.Date </p>
-    <p>Text: @elem.Text </p>
+    <div style="width: 60%;">
+        @if (elem.Text.Length > 200)
+        {
+        <p>Preview: </p>
+        <textarea rows="6" cols="800" readonly style="max-width: 80%;  resize: none; outline: none; font-family: 'Times New Roman'; font-size: 16px; border: none; padding: 0px 10px;">
+            @elem.Text.Substring(0, 200)
+        </textarea>
+        }
+        else
+        {
+        <p>Text: </p>
+        <textarea rows="6" cols="1000" readonly style="max-width: 80%; resize: none; outline: none; font-family: 'Times New Roman'; font-size: 16px; border: none; padding: 0px 10px;">
+            @elem.Text
+        </textarea>
+        }
+    </div>
+    string pass = "WatchArticlePage/" + (elem.Id);
+    <p>@Html.ActionLink("More", pass, "Home")</p>
     <hr />
 }
-

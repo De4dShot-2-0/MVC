@@ -5,13 +5,14 @@
 
 @using FirstTask.Models
 
-@helper ShowList(List<Article> list)
+@helper ShowList(List<ClassLibrary.Comment> list)
 {
     foreach (var elem in list)
     {
         <p>Name: @elem.Name </p>
         <p>Published: @elem.Date </p>
         <p>Text: @elem.Text </p>
+        <p>Id: @elem.Id </p>
         <hr />
     }
 }
@@ -23,7 +24,7 @@
 @using (Html.BeginForm("Guest", "Home", FormMethod.Post))
 {
     <p>Name</p>
-    @Html.TextBox("Name", null, new { placeholder = "Write your name"})
+    @Html.TextBox("Name", null, new { placeholder = "Write your name" })
     <br />
     <p>Comment</p>
     @Html.TextArea("Text", new { rows = "6", cols = "60", placeholder = "Write your comment", style = "resize: none;" });

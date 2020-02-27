@@ -2,7 +2,6 @@
 @{
     ViewBag.Title = "Blank";
 }
-
 <h2>Blank</h2>
 <div>
     @using (Html.BeginForm("Result", "Home", FormMethod.Post))
@@ -16,7 +15,7 @@
         @Html.RadioButton("Radio", "Two") <span>Mistakenly</span> <br />
         @Html.RadioButton("Radio", "Three") <span>Mistakenly</span> <br />
         <h4>Question 3</h4>
-        @Html.TextBox("Text", null, null, new { placeholder = "Wrile 'ball' to get a point", style = "width:200px; margin-bottom: 12px" }) <br />
+        @Html.TextBox("Text", null, new { placeholder = "Wrile 'ball' to get a point", style = "width:200px; margin-bottom: 12px" }) <br />
         <input type="submit" value="Show Result" />
     }
 </div>

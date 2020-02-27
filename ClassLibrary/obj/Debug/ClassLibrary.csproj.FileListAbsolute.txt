@@ -1,0 +1,35 @@
+D:\Study\Изучение C#\Epam\MVC\FirstTask\ClassLibrary\bin\Debug\ClassLibrary.dll.config
+D:\Study\Изучение C#\Epam\MVC\FirstTask\ClassLibrary\bin\Debug\ClassLibrary.dll
+D:\Study\Изучение C#\Epam\MVC\FirstTask\ClassLibrary\bin\Debug\ClassLibrary.pdb
+D:\Study\Изучение C#\Epam\MVC\FirstTask\ClassLibrary\bin\Debug\EntityFramework.dll
+D:\Study\Изучение C#\Epam\MVC\FirstTask\ClassLibrary\bin\Debug\EntityFramework.SqlServer.dll
+D:\Study\Изучение C#\Epam\MVC\FirstTask\ClassLibrary\bin\Debug\EntityFramework.xml
+D:\Study\Изучение C#\Epam\MVC\FirstTask\ClassLibrary\bin\Debug\EntityFramework.SqlServer.xml
+D:\Study\Изучение C#\Epam\MVC\FirstTask\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+D:\Study\Изучение C#\Epam\MVC\FirstTask\ClassLibrary\obj\Debug\ClassLibrary.csproj.CopyComplete
+D:\Study\Изучение C#\Epam\MVC\FirstTask\ClassLibrary\obj\Debug\ClassLibrary.dll
+D:\Study\Изучение C#\Epam\MVC\FirstTask\ClassLibrary\obj\Debug\ClassLibrary.pdb
+D:\Study\Projects\FirstTask2\FirstTask\ClassLibrary\bin\Debug\ClassLibrary.dll.config
+D:\Study\Projects\FirstTask2\FirstTask\ClassLibrary\bin\Debug\ClassLibrary.dll
+D:\Study\Projects\FirstTask2\FirstTask\ClassLibrary\bin\Debug\ClassLibrary.pdb
+D:\Study\Projects\FirstTask2\FirstTask\ClassLibrary\bin\Debug\EntityFramework.dll
+D:\Study\Projects\FirstTask2\FirstTask\ClassLibrary\bin\Debug\EntityFramework.SqlServer.dll
+D:\Study\Projects\FirstTask2\FirstTask\ClassLibrary\bin\Debug\EntityFramework.xml
+D:\Study\Projects\FirstTask2\FirstTask\ClassLibrary\bin\Debug\EntityFramework.SqlServer.xml
+D:\Study\Projects\FirstTask2\FirstTask\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+D:\Study\Projects\FirstTask2\FirstTask\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+D:\Study\Projects\FirstTask2\FirstTask\ClassLibrary\obj\Debug\ClassLibrary.csproj.CopyComplete
+D:\Study\Projects\FirstTask2\FirstTask\ClassLibrary\obj\Debug\ClassLibrary.dll
+D:\Study\Projects\FirstTask2\FirstTask\ClassLibrary\obj\Debug\ClassLibrary.pdb
+D:\Study\Projects\FirstTask\FirstTask\ClassLibrary\bin\Debug\ClassLibrary.dll.config
+D:\Study\Projects\FirstTask\FirstTask\ClassLibrary\bin\Debug\ClassLibrary.dll
+D:\Study\Projects\FirstTask\FirstTask\ClassLibrary\bin\Debug\ClassLibrary.pdb
+D:\Study\Projects\FirstTask\FirstTask\ClassLibrary\bin\Debug\EntityFramework.dll
+D:\Study\Projects\FirstTask\FirstTask\ClassLibrary\bin\Debug\EntityFramework.SqlServer.dll
+D:\Study\Projects\FirstTask\FirstTask\ClassLibrary\bin\Debug\EntityFramework.xml
+D:\Study\Projects\FirstTask\FirstTask\ClassLibrary\bin\Debug\EntityFramework.SqlServer.xml
+D:\Study\Projects\FirstTask\FirstTask\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+D:\Study\Projects\FirstTask\FirstTask\ClassLibrary\obj\Debug\ClassLibrary.csproj.CopyComplete
+D:\Study\Projects\FirstTask\FirstTask\ClassLibrary\obj\Debug\ClassLibrary.dll
+D:\Study\Projects\FirstTask\FirstTask\ClassLibrary\obj\Debug\ClassLibrary.pdb
+D:\Study\Projects\FirstTask\FirstTask\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache

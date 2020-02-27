@@ -5,26 +5,29 @@ using System.Web;
 using System.Web.Mvc;
 using FirstTask.Models;
 
+
 namespace FirstTask.Controllers
 {
     public class HomeController : Controller
     {
         public ActionResult Index()
         {
-            var articles = new Article().CreateTestList();
-
-            return View(articles);
+            return View(new ArticleService().ShowArticles());
+        }
+        public ActionResult WatchArticlePage(int id)
+        {
+            return View(new ArticleService().ShowArticles()[id-1]);
         }
         public ActionResult Guest(string Name, string Text)
         {
             if (Request.HttpMethod == "GET")
             {
-                return View(Comments.comments);
+                return View(new CommentService().ShowComments());
             }
             else
             {
-                Comments.comments.Add(new Article(Name, Text));
-                return View(Comments.comments);
+                new CommentService().AddComment(Name, Text);
+                return View(new CommentService().ShowComments());
             }
         }
         public ActionResult Blank()
@@ -33,16 +36,7 @@ namespace FirstTask.Controllers
         }
         public ActionResult Result(FormCollection answers)
         {
-            int score = 0;
-            if (answers["Radio"] == "One")
-                score++;
-            if (answers["Text"].ToUpper() == "BALL")
-                score++;
-            if (Convert.ToBoolean(answers["Check1"].Split(',')[0]) == true &&
-                Convert.ToBoolean(answers["Check2"].Split(',')[0]) == true &&
-                Convert.ToBoolean(answers["Check3"].Split(',')[0]) == false)
-                score++;
-            return View(score);
+            return View(Functions.Result(answers));
         }  
     }
 }
